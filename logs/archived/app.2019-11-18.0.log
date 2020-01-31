@@ -1,0 +1,24 @@
+2019-11-18 17:43:23,533 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59276 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 17:43:23,538 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 17:43:23,538 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 17:43:25,012 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.707 seconds (JVM running for 2.746)
+2019-11-18 17:46:18,746 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59321 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 17:46:18,748 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 17:46:18,748 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 17:46:20,149 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.631 seconds (JVM running for 2.762)
+2019-11-18 17:47:35,336 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59406 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 17:47:35,338 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 17:47:35,338 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 17:47:36,751 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.646 seconds (JVM running for 2.23)
+2019-11-18 17:53:35,592 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59484 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 17:53:35,594 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 17:53:35,595 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 17:53:37,081 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.742 seconds (JVM running for 2.334)
+2019-11-18 17:55:50,608 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59518 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 17:55:50,610 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 17:55:50,611 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 17:55:52,043 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.737 seconds (JVM running for 2.869)
+2019-11-18 18:00:12,469 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 59568 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-18 18:00:12,471 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-18 18:00:12,471 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-18 18:00:14,003 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.802 seconds (JVM running for 2.936)

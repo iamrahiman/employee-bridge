@@ -1,0 +1,12 @@
+2019-11-26 18:21:30,733 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Starting EmployeeBridgeApplication on BLRJPT3270D with PID 1109 (/Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge/target/classes started by abdul.rahimanshaik in /Users/abdul.rahimanshaik/eclipse-workspace-practice/employee-bridge)
+2019-11-26 18:21:30,758 DEBUG com.apple.employee.bridge.EmployeeBridgeApplication [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-26 18:21:30,759 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] No active profile set, falling back to default profiles: default
+2019-11-26 18:21:31,952 INFO com.apple.employee.bridge.EmployeeBridgeApplication [main] Started EmployeeBridgeApplication in 1.456 seconds (JVM running for 2.914)
+2019-11-26 18:21:43,728 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-1] Method : String com.apple.employee.bridge.controller.EmployeeBridgeController.getHealth(): arguments: []
+2019-11-26 18:21:43,732 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-1] Method : String com.apple.employee.bridge.service.impl.EmployeeBridgeServiceImpl.getHealth(): arguments: []
+2019-11-26 18:21:53,778 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-1] Method Name : String com.apple.employee.bridge.service.impl.EmployeeBridgeServiceImpl.getHealth() : Response: "200 OK"
+2019-11-26 18:21:53,778 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-1] Method Name : String com.apple.employee.bridge.controller.EmployeeBridgeController.getHealth() : Response: "200 OK"
+2019-11-26 18:22:03,587 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-3] Method : String com.apple.employee.bridge.controller.EmployeeBridgeController.getHealth(): arguments: []
+2019-11-26 18:22:03,588 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-3] Method : String com.apple.employee.bridge.service.impl.EmployeeBridgeServiceImpl.getHealth(): arguments: []
+2019-11-26 18:22:13,679 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-3] Method Name : String com.apple.employee.bridge.service.impl.EmployeeBridgeServiceImpl.getHealth() : Response: "200 OK"
+2019-11-26 18:22:13,679 INFO com.apple.employee.bridge.logging.EmployeeBridgeLogger [http-nio-9090-exec-3] Method Name : String com.apple.employee.bridge.controller.EmployeeBridgeController.getHealth() : Response: "200 OK"
